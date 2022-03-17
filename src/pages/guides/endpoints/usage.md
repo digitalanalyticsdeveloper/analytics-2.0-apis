@@ -39,11 +39,11 @@ By default, all event types are included when you make a request to get usage lo
 | `7` | Alert sent |
 | `8` | User Action |
 | `9` | Tool viewed |
-| `10` | Adobe Action |
+| `10` | Omniture Action |
 | `11` | Password Recovery |
-| `12` | Bookmarks |
+| `12` | BookMarks |
 | `13` | Dashboards |
-| `14` | Alerts  |
+| `14` | Alerts |
 | `15` | Calendar Events |
 | `16` | Targets |
 | `17` | Report Settings |
@@ -58,12 +58,12 @@ By default, all event types are included when you make a request to get usage lo
 | `26` | Date Range |
 | `27` | Virtual Report Suite |
 | `28` | Contribution Analysis |
-| `29` | Excel Data Block Request |
-| `30` | Excel Login Failure |
-| `31` | Excel Login Success |
-| `32` | Mobile Login Failure |
-| `33` | Mobile Login Success |
-| `34` | Api Method |
+| `30` | Excel Data Block Request |
+| `31` | Excel Login Failure |
+| `32` | Excel Login Success |
+| `41` | Mobile Login Failure |
+| `42` | Mobile Login Success |
+| `61` | Api Method |
 
 <CodeBlock slots="heading, code" repeat="2" languages="CURL,JSON"/>
 
